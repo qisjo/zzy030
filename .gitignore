@@ -1,0 +1,11 @@
+*.csv
+*.har
+*.py
+*.json
+*.ps1
+decrypted_*
+unpacked_*
+range_scan.json
+dashboard_template.html
+__pycache__/
+*.flow
